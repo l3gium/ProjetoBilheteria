@@ -29,3 +29,11 @@
   <li>Fileiras 6 a 10:	R$ 30,00</li>
   <li>Fileiras 11 a 15:	R$ 15,00</li>
 </ul>
+
+<br/>
+
+<p align="justify">Desenvolvido por:</p>
+<ul>
+  <li>Beatriz Bastos Borges</li>
+  <li>Miguel Luizatto Alves</li>
+</ul>
